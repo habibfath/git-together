@@ -1,0 +1,5 @@
+Cara uplode github
+1. git clone "repositori"
+2. git add nama file atau * //tanda bintang untuk beberapa file sekaligus
+3. git commit -m "first commit" //dalam tanda petik tulisan pesan
+4. git push //masukkan nama pengguna dan kata sandi
